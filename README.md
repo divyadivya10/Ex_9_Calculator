@@ -1,4 +1,9 @@
 ## Ex.No:9 Develop a simple calculator using android studio.
+Developed by: DIVYA R
+
+Registeration Number : 212222040040
+
+Date:7/10/24
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
@@ -23,8 +28,6 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the text “calculator operation”.
-Developed by: DIVYA R
-Registeration Number : 212222040040
 */
 
 ## activity_main.xml:
