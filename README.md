@@ -1,9 +1,14 @@
 ## Ex.No:9 Develop a simple calculator using android studio.
+## PROGRAM:
+/*
+Program to print the text “calculator operation”.
+
 Developed by: DIVYA R
 
 Registeration Number : 212222040040
 
-Date:7/10/24
+Date : 7.10.2024
+*/
 ## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
@@ -24,11 +29,6 @@ Step 5: Design layout using UI components in activity_main.xml.
 Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
-
-## PROGRAM:
-/*
-Program to print the text “calculator operation”.
-*/
 
 ## activity_main.xml:
 ```
@@ -272,12 +272,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ## OUTPUT
-
-![MAD EXP-9(1)](https://github.com/user-attachments/assets/079559e7-2f6b-49ae-b3e6-e905674b209c)
-![MAD EXP-9(2)](https://github.com/user-attachments/assets/17132943-5895-431e-8fe7-4fc338220fbd)
-
+![image](https://github.com/user-attachments/assets/d7bbf46e-ca24-421b-96dc-f815b8188c7a)
 
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
